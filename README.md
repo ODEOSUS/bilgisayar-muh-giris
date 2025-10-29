@@ -1,2 +1,4 @@
-# bilgisayar-muh-giris
-HesapMakinesi.c
+bilgisayar-muh-giris
+BMG Ödevi
+
+KAĞAN TEMİZYÜREK 16008124075
